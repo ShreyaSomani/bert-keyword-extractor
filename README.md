@@ -10,7 +10,7 @@
    keywords/keyphrases that are most similar to a document.
 
 # Methodology
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FProgress-Notes-Classification-and-Keyword-using-Tang-Gandhi%2F22b6e7e7063f596c213d7094ca991a29426be241&psig=AOvVaw1CDehx89MgjG5kMDB0cFLp&ust=1671556634721000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD6su-XhvwCFQAAAAAdAAAAABAD)
+![image](https://github.com/ShreyaSomani/bert-keyword-extractor/blob/main/BERT-Methodology.png)
 
 # Screenshot of the Interface
 ![image](https://user-images.githubusercontent.com/27242399/140746511-1205f24a-869f-4b24-9ed7-9153cfeef8e3.png)
